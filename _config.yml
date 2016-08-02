@@ -1,0 +1,14 @@
+layout_spectrum: 0.6318357845302671
+typography_spectrum: 0.7383350396994501
+color:
+  brandStrength: 0.2101022785063833
+  lightness: 0.27487702621147037
+  saturation: 0.9968384741805494
+  rhythmicContrast: 0.8514896063134074
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: stevia
